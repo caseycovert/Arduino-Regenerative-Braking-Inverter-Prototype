@@ -1,0 +1,5 @@
+This project involved the design and implementation of an Arduino-based inverter system capable of converting DC power into controlled AC power to drive a bipolar stepper motor. An Arduino microcontroller was used to generate switching signals that controlled two H-bridge circuits, allowing the system to alternate current direction through the motor windings and create the required two-phase AC waveform.
+
+The project explored fundamental concepts used in electric vehicle power electronics, including inverter operation, H-bridge switching, motor control, and embedded programming. By controlling the timing and sequence of switching events, the system demonstrated how modern motor inverters regulate electrical energy to produce controlled mechanical motion.
+
+The project also explored the principles behind regenerative braking used in electric vehicles. By reversing the motor operating mode, the system demonstrated the concept of bidirectional power flow, where mechanical energy can be converted back into electrical energy during deceleration. This provided hands-on experience with the energy management concepts used in modern EV powertrain systems.
